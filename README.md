@@ -2,7 +2,7 @@
 Filters I use for blocking spam in YouTube comments using the BlockTube extention.
 
 # Installation
-1. Install the extention in your browser. ([Chrome](https://chrome.google.com/webstore/detail/blocktube/bbeaicapbccfllodepmimpkgecanona), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/blocktube/))
+1. Install the extention in your browser. ([Chrome](https://chrome.google.com/webstore/detail/blocktube/bbeaicapbccfllodepmimpkgecanona), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/blocktube/), Use [this](https://addons.opera.com/en/extensions/details/install-chrome-extensions/) extention with the Chrome extention with Opera.)
 2. Download the `blocklist.json`file.
 3. Open the BlockTube extention configuration and scroll to the bottom.
 4. Select Import.
